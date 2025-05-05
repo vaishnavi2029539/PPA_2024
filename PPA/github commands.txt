@@ -1,0 +1,123 @@
+github commands
+
+
+Vilas Jadhav@LAPTOP-NSPPAT7P MINGW64 /c/PPA (master)
+$ history
+    1  ls
+    2  ls
+    3  cls
+    4  git config --global user.name Vaishnavi
+    5  git config --global user.email vj620699@gmail.com
+    6  git config --global user.name
+    7  git config --global user.email
+    8  history
+    9  code .
+   10  git init
+   11  ls
+   12  ls -lart
+   13  git status
+   14  git add index.html
+   15  git status
+   16  git rm --cached index.html
+   17  git status
+   18  git add index.html
+   19  git status
+   20  git status
+   21  git add index.html
+   22  git status
+   23  git commit -m "initial commit"
+   24  git status
+   25  git add index.html
+   26  git status
+   27  git commit
+   28  git status
+   29  touch contact.html
+   30  touch about.html
+   31  ls
+   32  git status
+   33  git add -A
+   34  git status
+   35  git status
+   36  git add -A
+   37  git status
+   38  git commit -m "added more html"
+   39  git status
+   40  git status
+   41  git checkout contact.html
+   42  git status
+   43  git status
+   44  git checkout -f
+   45  git status
+   46  git log
+   47  git log -p -1
+   48  git diff
+   49  git diff
+   50  git add -A
+   51  git status
+   52  git diff --staged
+   53  touch waste.html
+   54  git status
+   55  git add -A
+   56  git status
+   57  git rm --cached waste.html
+   58  git status
+   59  ls
+   60  git rm waste.html
+   61  git status
+   62  git add -A
+   63  git status
+   64  git commit -m "adding waste.html"
+   65  git status
+   66  ls
+   67  git rm waste.html
+   68  git status
+   69  git commit -m "removing waste.html"
+   70  git status
+   71  ls
+   72  clear
+   73  git status
+   74  git status
+   75  git status -s
+   76  git add -A
+   77  git status -s
+   78  git status -s
+   79  git add -A
+   80  touch waste.html
+   81  ls
+   82  git status
+   83  touch mmylog.log
+   84  touch .gitignore
+   85  ls
+   86  ls -lart
+   87  git status
+   88  git status
+   89  git status
+   90  git status
+   91  git status
+   92  git add -A
+   93  git status
+   94  git commit -m "adding get ignored"
+   95  git status
+   96  git branch
+   97  git branch feature1
+   98  git branch
+   99  git checkout feature1
+  100  git status
+  101  git add -A
+  102  git status
+  103  git merge feature1
+  104  git checkout master
+  105  git merge feature1
+  106  git status
+  107  git checkout -b feature2
+  108  git branch
+  109  git status
+  110  git add -A
+  111  git commit -m "modifing about as"
+  112  git status
+  113  git checkout master
+  114  git merge feature2
+  115  git log
+  116  clear
+  117  history
+
